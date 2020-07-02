@@ -1,6 +1,6 @@
 ### Security-Advisories
 
-Below are notifications for security vulnerabilities in third-party software discovered by CSW Researchers
+Below are notifications for security vulnerabilities in third-party products discovered by CSW Researchers
 
 | Publised Date              | Severity      | CVE |
 |-------------------|-----------|-----------------------------------------------|
